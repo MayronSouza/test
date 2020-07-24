@@ -1,5 +1,11 @@
 {
   "data": {
+    "canalAtendimento": "A",
+    "codigo": "01",
+    "contaContrato": "003004753495",
+    "mensagem": "Cliente possui faturas não pagas.",
+    "protocolo": "0073402614",
+    "totalDebitos": "106.67 ",
     "faturas": [
       {
         "codigoBarras": "",
